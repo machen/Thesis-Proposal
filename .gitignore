@@ -1,5 +1,7 @@
-*.aux
+ThesisProposal.aux
 *.bbl
-*.log
+ThesisProposal.log
 *.blg
 *.tmp
+ThesisProposal.aux
+ThesisProposal.log
