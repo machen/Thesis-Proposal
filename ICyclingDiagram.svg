@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="544.875"
+   height="287.125"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="ICyclingDiagram.svg"
+   inkscape:export-filename="C:\Users\Michael\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\ICyclingDiagram.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3081"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3071"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3063"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="249.7611"
+     inkscape:cy="135.87098"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-78.0625,-269)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.83900678px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.285714,430.23139 c 270.000006,-0.5028 249.445466,-1.54722 277.142856,3.01686 34.11983,5.62239 39.83412,9.7564 76.42857,31.67695 45.57687,24.70298 56.42857,91.00841 56.42857,91.00841"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 386.40366,439.70467 c 236.88077,0 236.37569,-0.50508 236.37569,-0.50508"
+       id="path2987"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3763"
+       width="543.85242"
+       height="286.11786"
+       x="78.571426"
+       y="269.50504"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79149204px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 506.88912,429.51664 8.79482,8.7948 9.19456,-8.7948 z"
+       id="path3765"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#0000fb;fill-opacity:0.59788358;stroke:none"
+       d="m 488.80433,549.75417 c -6.58579,-29.02699 -21.14822,-56.64854 -38.20517,-72.46634 -5.96491,-5.53156 -9.75547,-8.13306 -24.74656,-16.98384 -19.86447,-11.72802 -27.01997,-15.5526 -34.64793,-18.51911 l -3.26886,-1.27126 105.35304,-0.004 c 57.94418,-0.002 110.50368,-0.10878 116.79889,-0.2368 l 11.44584,-0.23277 0,57.40673 0,57.40673 -65.78618,-1.7e-4 -65.78618,-1.7e-4 -1.15689,-5.09897 z"
+       id="path3767"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#5d3600;fill-opacity:0.78431379;stroke:#000000;stroke-width:0.42325807;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 79.278346,492.88133 0,-62.01286 51.896584,-0.2357 c 77.0822,-0.35008 185.34446,-0.28408 196.3484,0.11971 11.90919,0.43701 16.82185,0.98099 30.55712,3.38354 22.61277,3.9554 32.89589,7.32852 47.98224,15.73938 10.57443,5.89539 33.39721,19.6535 36.35837,21.91768 18.33664,14.02065 33.46222,38.43643 42.14248,68.02663 0.97286,3.31638 2.11934,7.54611 2.54772,9.39938 0.42839,1.85327 0.90168,3.88833 1.05176,4.52234 l 0.27288,1.15276 -204.57878,0 -204.578774,0 0,-62.01286 z"
+       id="path3031"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3851"
+       transform="translate(-38,0)">
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 211.79783,429.35086 c 0,0 5.33513,-15.62712 4.93993,-17.14432 -0.39519,-1.51719 29.8372,-39.90226 -5.33513,-18.66151"
+         inkscape:path-effect="#path-effect3063"
+         id="path3061"
+         d="m 211.79783,429.35086 c 3.13547,-5.13753 4.861,-11.12608 4.93993,-17.14432 0.0861,-6.56175 -1.79369,-13.13683 -5.33513,-18.66151"
+         style="fill:none;stroke:#000000;stroke-width:0.6856215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.6856215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 239.31778,429.35086 c -3.13547,-5.13753 -4.861,-11.12608 -4.93993,-17.14432 -0.0861,-6.56175 1.79369,-13.13683 5.33513,-18.66151"
+         id="path3069"
+         inkscape:path-effect="#path-effect3071"
+         inkscape:original-d="m 239.31778,429.35086 c 0,0 -5.33513,-15.62712 -4.93993,-17.14432 0.39519,-1.5172 -29.8372,-39.90226 5.33513,-18.66151"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 211.14558,393.26786 28.65525,0"
+         inkscape:path-effect="#path-effect3081"
+         id="path3079"
+         d="m 211.14558,393.26786 28.65525,0"
+         style="fill:none;stroke:#000000;stroke-width:0.50549436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="translate(-8,0)"
+       id="g3856">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.6856215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 211.79783,429.35086 c 3.13547,-5.13753 4.861,-11.12608 4.93993,-17.14432 0.0861,-6.56175 -1.79369,-13.13683 -5.33513,-18.66151"
+         id="path3858"
+         inkscape:path-effect="#path-effect3063"
+         inkscape:original-d="m 211.79783,429.35086 c 0,0 5.33513,-15.62712 4.93993,-17.14432 -0.39519,-1.51719 29.8372,-39.90226 -5.33513,-18.66151"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 239.31778,429.35086 c 0,0 -5.33513,-15.62712 -4.93993,-17.14432 0.39519,-1.5172 -29.8372,-39.90226 5.33513,-18.66151"
+         inkscape:path-effect="#path-effect3071"
+         id="path3860"
+         d="m 239.31778,429.35086 c -3.13547,-5.13753 -4.861,-11.12608 -4.93993,-17.14432 -0.0861,-6.56175 1.79369,-13.13683 5.33513,-18.66151"
+         style="fill:none;stroke:#000000;stroke-width:0.6856215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.50549436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 211.14558,393.26786 28.65525,0"
+         id="path3862"
+         inkscape:path-effect="#path-effect3081"
+         inkscape:original-d="m 211.14558,393.26786 28.65525,0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#999999;fill-opacity:0.78431379;stroke:#000000;stroke-width:0.17857143;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 96.403962,160.37863 c 0,-0.0886 0.560395,-1.25378 1.245322,-2.58928 2.12693,-4.14719 3.099056,-8.17248 3.303326,-13.67819 0.24589,-6.6271 -0.7926,-11.49263 -3.661234,-17.1536 -0.488078,-0.96317 -0.887414,-1.83692 -0.887414,-1.94167 0,-0.10474 5.953208,-0.19044 13.229338,-0.19044 l 13.22934,0 -0.88563,1.51785 c -2.19236,3.75742 -4.14448,11.29167 -4.14448,15.99576 0,5.22675 1.40998,11.40612 3.58998,15.73339 l 1.00605,1.99701 -8.81587,0.23436 c -10.27415,0.27313 -17.208728,0.30328 -17.208728,0.0748 z"
+       id="path3864"
+       inkscape:connector-curvature="0"
+       transform="translate(78.0625,269)" />
+    <path
+       style="fill:#999999;fill-opacity:0.78431379;stroke:#000000;stroke-width:0.17857143;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 127.65841,157.77188 c 2.118,-4.13034 3.09018,-8.16185 3.2942,-13.66072 0.24589,-6.6271 -0.7926,-11.49263 -3.66123,-17.1536 -0.48808,-0.96317 -0.88742,-1.83692 -0.88742,-1.94167 0,-0.10474 5.9532,-0.19044 13.22934,-0.19044 l 13.22934,0 -0.88563,1.51785 c -2.19236,3.75742 -4.14448,11.29167 -4.14448,15.99576 0,5.2535 1.41003,11.40634 3.61853,15.78996 l 1.03461,2.05357 -13.03173,0 -13.03172,0 1.23619,-2.41071 z"
+       id="path3866"
+       inkscape:connector-curvature="0"
+       transform="translate(78.0625,269)" />
+  </g>
+</svg>

@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="540.63747"
-     inkscape:cy="42.285566"
+     inkscape:zoom="1.979899"
+     inkscape:cx="372.95198"
+     inkscape:cy="135.07602"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -64,42 +64,63 @@
        d="m 79.285714,377.36218 c 270.000006,-0.71428 249.445466,-2.19797 277.142856,4.28572 34.11983,7.98712 39.83412,13.85986 76.42857,44.99999 45.57687,35.09283 56.42857,129.28572 56.42857,129.28572"
        id="path2985"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscc" />
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 385.3732,390.71227 c 236.88077,0 236.37569,-0.50508 236.37569,-0.50508"
        id="path2987"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3763"
        width="543.85242"
        height="286.11786"
        x="78.571426"
-       y="269.50504" />
+       y="269.50504"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79149204px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 506.88912,381.51664 8.79482,8.7948 9.19456,-8.7948 z"
        id="path3765"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="fill:#0000fb;fill-opacity:0.59788358;stroke:none"
        d="m 488.80433,547.68213 c -6.58579,-41.54088 -21.14822,-81.07041 -38.20517,-103.70745 -5.96491,-7.91629 -9.75547,-11.63933 -24.74656,-24.30578 -19.86447,-16.78412 -27.01997,-22.25752 -34.64793,-26.50293 l -3.26886,-1.81931 105.35304,-0.006 c 57.94418,-0.003 110.50368,-0.15568 116.79889,-0.33889 l 11.44584,-0.33311 0,82.15546 0,82.15547 -65.78618,-2.5e-4 -65.78618,-2.4e-4 -1.15689,-7.29719 z"
        id="path3767"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="fill:#0000ff;fill-opacity:0.86772491;stroke:none"
        d="m 204.65625,377.6875 c -4.57239,0.003 -8.91935,0.025 -13.4375,0.0312 1.03147,4.13644 17.8638,7.4375 38.46875,7.4375 20.56041,0 37.37143,-3.28242 38.46875,-7.40625 -19.5546,-0.048 -41.57128,-0.0786 -63.5,-0.0625 z"
        id="path3769"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="fill:#272727;fill-opacity:1;stroke:none"
        id="rect3782"
        width="267.5748"
        height="21.718279"
        x="78.286819"
-       y="504.35443" />
+       y="504.35443"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        sodipodi:type="arc"
        style="fill:#272727;fill-opacity:1;stroke:none"
@@ -109,14 +130,20 @@
        sodipodi:rx="143.18912"
        sodipodi:ry="13.384521"
        d="m 464.1651,516.22369 c 0,7.39207 -64.10795,13.38452 -143.18912,13.38452 -79.08116,0 -143.18911,-5.99245 -143.18911,-13.38452 0,-7.39206 64.10795,-13.38452 143.18911,-13.38452 79.08117,0 143.18912,5.99246 143.18912,13.38452 z"
-       transform="matrix(0.35075963,0,0,0.81131035,234.21124,96.388351)" />
+       transform="matrix(0.35075963,0,0,0.81131035,234.21124,96.388351)"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.64312077;stroke-opacity:1"
        id="rect3788"
        width="2.882261"
        height="161.98654"
        x="145.28352"
-       y="351.13791" />
+       y="351.13791"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect3788-1"
@@ -124,16 +151,25 @@
        height="71.456268"
        x="512.80243"
        y="-216.41626"
-       transform="matrix(0,1,-1,0,0,0)" />
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="fill:#5d3600;fill-opacity:0.78431373;stroke:none"
        d="m 79.317677,540.56305 0,-14.39005 139.716723,-0.0851 c 125.47115,-0.0765 140.18021,-0.12626 144.26241,-0.4886 14.63307,-1.29884 24.36251,-3.27817 29.71533,-6.04523 10.074,-5.20758 0.91593,-11.1647 -21.30813,-13.86047 -11.53855,-1.39962 -5.03801,-1.32153 -118.45069,-1.423 l -104.74019,-0.0937 0,-63.25277 0,-63.25277 21.32245,0 c 21.01662,0 21.32473,0.007 21.48089,0.49917 0.43831,1.38102 3.56972,2.93503 8.34167,4.13969 13.42949,3.39023 37.99223,3.91202 54.41593,1.15598 6.6734,-1.11986 11.49131,-2.68989 13.17796,-4.29437 0.5303,-0.50445 0.96417,-1.048 0.96417,-1.20788 0,-0.21735 -8.20372,-0.30909 -32.51428,-0.36362 -17.88286,-0.0401 -5.35381,-0.0573 27.84233,-0.0382 59.65271,0.0343 63.81524,0.085 72.47844,0.88292 6.50162,0.59882 12.26469,1.77391 26.51651,5.40673 17.56115,4.47637 27.37632,9.0167 39.90102,18.45752 5.13701,3.87216 8.79868,6.88951 27.55709,22.70799 9.57556,8.07484 14.42561,13.02863 19.66126,20.08176 14.52127,19.56219 26.38185,48.68826 34.19346,83.96893 1.73259,7.82519 3.92007,19.79535 4.465,24.43307 l 0.17061,1.45209 -204.58498,0 -204.584983,0 0,-14.39004 z"
        id="path3772"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="fill:#5d3600;fill-opacity:0.78431373;stroke:none"
        d="m 79.317677,441.05839 0,-63.13453 23.192183,0 c 12.75569,0 27.47235,-0.0753 32.70368,-0.16726 l 9.51151,-0.16726 0,63.30179 0,63.3018 -32.70368,0 -32.703693,0 0,-63.13454 z"
        id="path3774"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="D:\Junction\Users\machen\Documents\Dropbox (Personal)\work\MIT Graduate Work\Research\Thesis-Proposal\RaCyclingDiagram.png" />
   </g>
 </svg>
